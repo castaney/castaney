@@ -4,4 +4,5 @@ I'm currently working on the payroll in a private project in the company I work,
 I'm currently learning about some design patterns concepts, architectural styles, and architectural patterns.
 I hope can learn as much as possible, and share those pieces of knowledge with the community
 
-[twitter] (https://twitter.com/castaney)
+<strong>Where to find me:</strong><br>
+[<b>twitter</b>] (https://twitter.com/castaney)
